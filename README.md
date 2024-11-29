@@ -29,12 +29,12 @@
 
 
 
--- * --
-* Please note that i also have a life and cant update the tool every day/week.
-** MOST of the tweaks SHOULD also be working for windows 11 but HAVEN'T BEEN TESTED!
-*** A selfmade Benchmark showed that a standard pc gets +30-60 fps more in Fortnite, +70 in Minecraft and +40~ in Roblox.
-**** The Utility has a section that can (possibly) REPAIR your system. it also has a section for enabling important security features and a section for testing your antivirus.
-***** HOWEVER there COULD be bugs that COULD have consequences. If you find a Bug contact me.
+-- * --   
+* Please note that i also have a life and cant update the tool every day/week.   
+** MOST of the tweaks SHOULD also be working for windows 11 but HAVEN'T BEEN TESTED!   
+*** A selfmade Benchmark showed that a standard pc gets +30-60 fps more in Fortnite, +70 in Minecraft and +40~ in Roblox.   
+**** The Utility has a section that can (possibly) REPAIR your system. it also has a section for enabling important security features and a section for testing your antivirus.   
+***** HOWEVER there COULD be bugs that COULD have consequences. If you find a Bug contact me.   
 
 
 
