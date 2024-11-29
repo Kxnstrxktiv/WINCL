@@ -2,7 +2,7 @@
 ---- WINCL, the best FREE Tweaking tool for windows 10 ----
 
 
--Regulary Updated*
+-Regulary Updated*່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່່
 -Windows 10**
 -The BEST FREE tweaking utility***
 -Security features****
