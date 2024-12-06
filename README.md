@@ -20,33 +20,11 @@
 * EXM is also marked down in the CREDIT section just like Tulip_91 who made most of the revert scripts!   
 * I do NOT sell nor make profit from this 'creation'.
  
--- # --   (what is this tool)
+-- # --
 # Tweaking tool for windows 10
 # Tweak
 # Tweaks
 # Batch
-# WINCL
-# windows
-# win10
-# Tweaking
-# free
-# Free Tweaks
-# Tweakz
-# Free time
-# Security
-# tool
-# Optimization
-# Optimizations
-# Optimization tool
-# Optimize
-# Optimizer
-# Game Booster
-# Performance
-# Preformance Booster
-# User friendly
-# Windows 10
-# Tweaking tool
-# Tweaking utility
 # Game Optimizer
 # Game tweak
 # Game tweaker
