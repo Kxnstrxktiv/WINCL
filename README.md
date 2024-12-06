@@ -20,7 +20,7 @@
 * EXM is also marked down in the CREDIT section just like Tulip_91 who made most of the revert scripts!   
 * I do NOT sell nor make profit from this 'creation'.
  
--- # --   
+-- # --   (what is this tool)
 # Tweaking tool for windows 10
 # Tweak
 # Tweaks
