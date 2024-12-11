@@ -6,7 +6,6 @@
 * Security features   
 * Minimalistic UI   
 * Tested, secure, no Virus   
-* there is no paid stuff and there will never be paid stuff in this tool!   
 
 -- LEGAL STUFF --   
 * Some of the tweaks are from the FREE tweaking utility by exm (discord.com/exm , exmtweaks.com)   
