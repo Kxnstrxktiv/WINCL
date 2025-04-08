@@ -1,14 +1,14 @@
----- WINCL, the best FREE Tweaking tool for windows 10 ----   
+---- WINCL, the best FREE Tweaking tool for windows 10 and 11 ----   
 
-* Regulary updated   
-* Windows 10 and 11   
+* Regulary updated!   
+* Windows 10 and 11!   
 I: YOUR SYSTEM MUST SUPPORT THE 'MSG' COMMAND!   
-* The BEST FREE tweaking utility   
-* Security features   
-* Minimalistic UI   
-* Tested, secure, no Virus   
+* Free tweaking utility with reverts!   
+* Many security features!   
+* Minimalistic and userfriendly UI!   
+* Tested on a VM before Release!   
 
 -- LEGAL STUFF --   
 * Some of the tweaks are from the FREE tweaking utility by exm (discord.com/exm , exmtweaks.com)   
-* EXM is also marked down in the CREDIT section just like Tulip_91 who made most of the revert scripts!   
+* EXM is also marked down in the CREDIT section just like Tulip_91 who created some of the revert scripts!   
 * I do NOT sell nor make profit from this 'creation'.   
