@@ -2,6 +2,7 @@
 
 * Regulary updated   
 * Windows 10 and 11   
+I: YOUR SYSTEM MUST SUPPORT THE 'MSG' COMMAND!   
 * The BEST FREE tweaking utility   
 * Security features   
 * Minimalistic UI   
