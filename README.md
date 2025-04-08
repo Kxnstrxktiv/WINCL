@@ -7,6 +7,7 @@ I: YOUR SYSTEM MUST SUPPORT THE 'MSG' COMMAND!
 * Many security features!   
 * Minimalistic and userfriendly UI!   
 * Tested on a VM before Release!   
+* Very easy to use!   
 
 -- LEGAL STUFF --   
 * Some of the tweaks are from the FREE tweaking utility by exm (discord.com/exm , exmtweaks.com)   
